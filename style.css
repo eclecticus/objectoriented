@@ -57,3 +57,9 @@ body {
 #btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
   outline: 0;
 }
+
+#score {
+  color: #5a6772;
+  text-align: center;
+  font-size: 30px;
+}
